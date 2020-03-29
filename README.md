@@ -21,3 +21,5 @@ The bootstraped CDFs are shown in the following figure:
 <img src="incubation_cdf.png" width = "450">
 
 The median days for the incubation period is 4.4 days, with an average of 5.8 days. These estimates are fairly close to the ones obtained from Lauer <I>et al.</I> of 5 and 5.5 days respectively. 
+
+<B>Disclaimer:</B> This analysis is purely for educational purposes and is not meant to provide public health policy recommendations. Also by combining the two datasets there can be duplications of cases. Any further suggestions for improvement - either of the analysis or the data - is welcomed! 
